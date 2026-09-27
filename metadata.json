@@ -1,0 +1,6 @@
+{
+  "name": "Flavinha Store",
+  "description": "Vitrine digital e catálogo de moda contemporânea da Flavinha Store em Bagé - RS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
